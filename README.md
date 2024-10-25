@@ -29,7 +29,7 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
 
-   > git clone https://github.com/saurav-gupta-29/Zeotap-Assignment-.git
+   > git clone https://github.com/Sanidhyavj/Zeotap-Weather-App.git
    >
    > cd weather-app
 
